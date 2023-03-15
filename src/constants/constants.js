@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Snake Game',
-    description: "......description about snake game......",
+    description: "See how long you can maneuver the end of a growing snake! Keep the snake from colliding into the other obstacles and itself! Try this classic game out in your very own browser!",
       image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.2ZiHDou29Pn1aQuw1cDctQAAAA%26pid%3DApi&f=1&ipt=ff7f80f8255fc41489c030f7c6b7c4979ec62b5e971c9e8f2740e1c5df0c77c6&ipo=images',
       tags: ['HTML', 'JavaScript', 'CSS'],
     source: 'https://github.com/psychologyandfreedom/snake_game_classic_javascript',
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Simon Game',
-    description: "...description about simon game...",
+    description: "See how good your short-term memory is by repeating the sequence as many times as you can! The longer you go, the harder it gets!",
     image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1ZYQ9DBvzp1K4yL8gcWtkAAAAA%26pid%3DApi&f=1&ipt=6510d5b81aafaf673cf3d8e2ebbef1be8795b1b9fdeb2cacd3243a32f6bb7c35&ipo=images',
     tags: ['HTML', 'JavaScript', 'CSS'],
     source: 'https://github.com/psychologyandfreedom/simon-game',
