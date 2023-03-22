@@ -38,7 +38,7 @@ const Header = () => (
         </li>
         <li>
           <Link legacyBehavior href="#about">
-            <NavLink>About</NavLink>
+            <NavLink>Get In Touch</NavLink>
           </Link>
         </li> 
     </Div2>

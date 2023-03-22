@@ -14,11 +14,11 @@ const Hero = (props) => (
       <SectionText>
         The purpose of this website is to demonstrate my programming knowledge by showcasing important projects that I've built throughout my programming journey. 
       </SectionText>
-      <Button>
+      {/* <Button>
       <a href="mailto:jobs.matthew@protonmail.com">
-      Email Me
+      Email 
       </a> 
-      </Button>
+      </Button> */}
     </LeftSection>
   </Section>
 );

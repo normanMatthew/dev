@@ -6,21 +6,21 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 const Footer = () => {
   return (
-    <FooterWrapper>
+    <FooterWrapper id="about">
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Email Me</LinkTitle>
+          <LinkTitle>Contact Me</LinkTitle>
           <LinkItem href="mailto:jobs.matthew@protonmail.com">jobs.matthew@protonmail.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
-        <CompanyContainer>
+        {/* <CompanyContainer>
           <Slogan>“The secret of getting ahead is getting started.” —Mark Twain</Slogan>
-        </CompanyContainer>
+        </CompanyContainer> */}
         <SocialContainer>
-          <SocialIcons href="https://github.com">
-            <AiFillGithub size="3rem" />
-          </SocialIcons>
+          <LinkItem href="https://www.linkedin.com/">
+            LinkedIn
+          </LinkItem>
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
