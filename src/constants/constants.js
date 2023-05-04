@@ -44,6 +44,13 @@ export const projects = [
     visit: 'https://psychologyandfreedom.github.io/simon-game/',
     id: 4,
   },
+  {
+    title: 'Guitar App',
+    description: 'Check out this custom made guitar application!',
+    image: '',
+    tags: ['React, TailwindCSS, JavaScript'],
+    visit: 'https://test-react-app-guitar.vercel.app/'
+  }
 ];
 
 export const TimeLineData = [
