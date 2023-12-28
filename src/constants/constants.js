@@ -43,13 +43,6 @@ export const projects = [
     source: 'https://github.com/psychologyandfreedom/simon-game',
     visit: 'https://psychologyandfreedom.github.io/simon-game/',
     id: 4,
-  },
-  {
-    title: 'Guitar App',
-    description: 'Check out this custom made guitar application!',
-    image: '',
-    tags: ['React, TailwindCSS, JavaScript'],
-    visit: 'https://test-react-app-guitar.vercel.app/'
   }
 ];
 
