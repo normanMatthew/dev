@@ -36,7 +36,7 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Javascript Shooter',
+    title: 'Simon Game',
     description: "See how good your short-term memory is by repeating the sequence as many times as you can! The longer you go, the harder it gets!",
     image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1ZYQ9DBvzp1K4yL8gcWtkAAAAA%26pid%3DApi&f=1&ipt=6510d5b81aafaf673cf3d8e2ebbef1be8795b1b9fdeb2cacd3243a32f6bb7c35&ipo=images',
     tags: ['HTML', 'JavaScript', 'CSS'],
@@ -45,8 +45,8 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'Simon Game',
-    description: "See how good your short-term memory is by repeating the sequence as many times as you can! The longer you go, the harder it gets!",
+    title: 'Javascript Shooter',
+    description: "Can you achieve more than 80 points before the timer runs out? Click to find out!",
     image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1ZYQ9DBvzp1K4yL8gcWtkAAAAA%26pid%3DApi&f=1&ipt=6510d5b81aafaf673cf3d8e2ebbef1be8795b1b9fdeb2cacd3243a32f6bb7c35&ipo=images',
     tags: ['HTML', 'JavaScript', 'CSS'],
     source: 'https://github.com/psychologyandfreedom/simon-game',
