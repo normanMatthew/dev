@@ -62,6 +62,16 @@ export const projects = [
     visit: 'https://bank-application-pi.vercel.app/',
     id: 6,
   },
+  {
+    title: 'Responsive Admin Dashboard',
+    description: 'A simple Admin Dashboard for businesses.',
+    image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1ZYQ9DBvzp1K4yL8gcWtkAAAAA%26pid%3DApi&f=1&ipt=6510d5b81aafaf673cf3d8e2ebbef1be8795b1b9fdeb2cacd3243a32f6bb7c35&ipo=images',
+    tags: ['HTML', 'CSS'],
+    source: 'https://github.com/psychologyandfreedom/simon-game',
+    visit: 'https://psychologyandfreedom.github.io/admin-dashboard/',
+    id: 7,
+
+  },
 ];
 
 export const TimeLineData = [
