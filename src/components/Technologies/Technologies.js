@@ -26,7 +26,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             MongoDB <br />
-            ExpressJS <br />
+            
             NodeJS
           </ListParagraph>
         </ListContainer>
@@ -47,6 +47,7 @@ const Technologies = () =>  (
           <ListParagraph>
             NextJS<br />
             TailwindCSS<br />
+            ExpressJS <br />
             Bootstrap
           </ListParagraph>
         </ListContainer>

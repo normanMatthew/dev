@@ -8,11 +8,10 @@ const Hero = (props) => (
   <Section row noPadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome to <br />
-        My Personal Portfolio
+        Matthew Norman
       </SectionTitle>
       <SectionText>
-        The purpose of this website is to demonstrate my programming knowledge by showcasing important projects that I've built throughout my programming journey. 
+      Full Stack Web Developer with five years of experience working with both front-end and back-end technologies.
       </SectionText>
       {/* <Button>
       <a href="mailto:jobs.matthew@protonmail.com">

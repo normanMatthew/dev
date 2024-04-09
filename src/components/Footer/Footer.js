@@ -17,11 +17,7 @@ const Footer = () => {
         {/* <CompanyContainer>
           <Slogan>“The secret of getting ahead is getting started.” —Mark Twain</Slogan>
         </CompanyContainer> */}
-        <SocialContainer>
-          <LinkItem href="https://www.linkedin.com/">
-            LinkedIn
-          </LinkItem>
-        </SocialContainer>
+        
       </SocialIconsContainer>
     </FooterWrapper>
   );
