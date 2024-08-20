@@ -4,7 +4,7 @@ export const projects = [
     title: 'Mobile Bank Application',
     description: "A simple banking application.",
     image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1ZYQ9DBvzp1K4yL8gcWtkAAAAA%26pid%3DApi&f=1&ipt=6510d5b81aafaf673cf3d8e2ebbef1be8795b1b9fdeb2cacd3243a32f6bb7c35&ipo=images',
-    tags: ['NEXTJS', 'TAILWINDCSS', 'REACT'],
+    tags: ['NEXTJS', 'TAILWIND', 'REACT'],
     source: 'https://github.com/psychologyandfreedom/simon-game',
     visit: 'https://bank-application-pi.vercel.app/',
     id: 1,
@@ -19,6 +19,13 @@ export const projects = [
     id: 2,
 
   },
+  {
+    title: "AI Fitness App",
+    description: "A simple fitness application that uses AI.",
+    tags: ["REACT", "TAILWIND"],
+    visit: "https://fitwave.vercel.app/",
+    id: 3,
+  }
 ];
 
 export const TimeLineData = [
