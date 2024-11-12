@@ -30,7 +30,7 @@ export const projects = [
     title: "MERN Real Estate App",
     desccription: "A Real Estate App allowing you to search for properties that are available for sale or purchase.",
     tags: ["MONGODB", "EXPRESSJS", "REACTJS", "NODEJS"],
-    vist: "https://mern-real-estate-app-mauve.vercel.app/",
+    visit: "https://mern-real-estate-app-mauve.vercel.app/",
     id: 4,
   },
 ];
