@@ -25,7 +25,14 @@ export const projects = [
     tags: ["REACT", "TAILWIND"],
     visit: "https://fitwave.vercel.app/",
     id: 3,
-  }
+  },
+  {
+    title: "MERN Real Estate App",
+    desccription: "A Real Estate App allowing you to search for properties that are available for sale or purchase.",
+    tags: ["MONGODB", "EXPRESSJS", "REACTJS", "NODEJS"],
+    vist: "https://mern-real-estate-app-mauve.vercel.app/",
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
