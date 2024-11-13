@@ -1,7 +1,6 @@
 import React from 'react';
-
+import { devIntro } from '@/constants/constants';
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
 const Hero = (props) => (
@@ -11,13 +10,8 @@ const Hero = (props) => (
         Matthew Norman
       </SectionTitle>
       <SectionText>
-      Full Stack Web Developer with five years of experience working with both front-end and back-end technologies.
+      {devIntro}
       </SectionText>
-      {/* <Button>
-      <a href="mailto:jobs.matthew@protonmail.com">
-      Email 
-      </a> 
-      </Button> */}
     </LeftSection>
   </Section>
 );

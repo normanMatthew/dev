@@ -16,7 +16,7 @@ const Projects = () => (
             <HeaderThree title>{title}</HeaderThree>
             <Hr />
           </TitleContent>
-          <CardInfo>{description}</CardInfo>
+          {/* <CardInfo>{description}</CardInfo> */}
           <div>
             <TitleContent>Stack</TitleContent>
             <TagList>

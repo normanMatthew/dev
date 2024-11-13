@@ -16,7 +16,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            React.js
+            ReactJS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -34,9 +34,9 @@ const Technologies = () =>  (
       <ListItem>
         <DiOpensource size="3rem"/>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Libraries</ListTitle>
           <ListParagraph>
-            Figma
+            TailWindCSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -46,7 +46,6 @@ const Technologies = () =>  (
           <ListTitle>Frameworks</ListTitle>
           <ListParagraph>
             NextJS<br />
-            TailwindCSS<br />
             ExpressJS <br />
             Bootstrap
           </ListParagraph>
@@ -59,7 +58,6 @@ const Technologies = () =>  (
           <ListParagraph>
             JavaScript<br />
             TypeScript<br />
-            C#
           </ListParagraph>
         </ListContainer>
       </ListItem>
