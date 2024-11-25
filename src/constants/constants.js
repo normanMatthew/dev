@@ -22,13 +22,6 @@ export const projects = [
     visit: "https://fitwave.vercel.app/",
     id: 3,
   },
-  {
-    title: "MERN Real Estate App",
-    desccription: "A Real Estate App allowing you to search for properties that are available for sale or purchase.",
-    tags: ["MONGODB", "EXPRESSJS", "REACTJS", "NODEJS"],
-    visit: "https://mern-real-estate-app-mauve.vercel.app/",
-    id: 4,
-  },
 ];
 
 export const devIntro = "Full Stack Web Developer with five years of experience building scalable, user-focused applications. Proficient in both front-end and back-end technologies, I bring a balanced skill set to create seamless, high-performance web experiences. With a strong foundation in modern development practices, I am dedicated to delivering robust, efficient solutions tailored to meet user and client needs.";
